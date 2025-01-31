@@ -1,0 +1,36 @@
+.bg-image1{
+    background-image: url('./Images/purple-bg.jpg');
+    background-size: cover;  /* Ensure the image covers the entire page */
+    background-position: center;  /* Center the image */
+}
+
+h1.text-body-emphasis{
+    color: #441752;
+}
+.font-style{
+    font-family: " Allan ", cursive;
+    color: #441752;
+}
+
+.bg-image2{
+    background-image: url('./Images/flower-bg.jpg');
+    background-size: cover;  /* Ensure the image covers the entire page */
+    background-position: center;  /* Center the image */
+}
+
+.my-profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.anchor{
+    color: #441752;
+    margin: 10px 20px;
+
+  }
+  
+  .anchor:hover{
+    color:rgb(168, 136, 181);
+  }
